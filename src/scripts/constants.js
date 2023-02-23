@@ -721,6 +721,7 @@ export default {
         'Georgia,Cambria,"TimesNewRoman",Times,serif': '.font-serif',
         'Menlo,Monaco,Consolas,"LiberationMono","CourierNew",monospace':
             '.font-mono',
+        'sans-serif':'.font-sans',
     },
     'font-size': {
         '.75rem': '.text-xs',
@@ -733,6 +734,19 @@ export default {
         '2.25rem': '.text-4xl',
         '3rem': '.text-5xl',
         '4rem': '.text-6xl',
+        '75%':'.text-xs',
+        '80%':'.text-sm',
+        '100%':'.text-base'
+        '110%':'.text-lg',
+        '120%':'.text-xl',
+        '150%':'.text-2xl',
+        '180%':'.text-3xl',
+        '220':'.text-4xl',
+        '300%':'.text-5xl',
+        '370%':'.text-6xl',
+        '450%':'.text-7xl',
+        '600%':'.text-8xl',
+        '800%':'.text-8xl',
     },
     'font-style': { italic: '.italic', normal: '.not-italic' },
     'font-weight': {
